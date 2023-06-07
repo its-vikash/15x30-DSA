@@ -7,7 +7,7 @@
 - **Topic wise question search 🔍**
 - **Topic wise progress 🧐**
 - **Complete local storage 📂**
-- **Mobile responsivedesign ✌🏻**
+- **Mobile responsive design ✌🏻**
 - **Clean UI ⚡**
 
 ## What is 15x30-DSA Cracker 🤔
